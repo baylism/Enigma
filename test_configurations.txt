@@ -1,0 +1,5 @@
+./enigma plugboards/m1.pb reflectors/m2.rf rotors/shift_up_m.rot rotors/shift_up.rot rotors/m1.pos
+
+./enigma plugboards/m1.pb reflectors/m2.rf rotors/shift_up_m.rot rotors/shift_up.rot rotors/m1.pos
+
+./enigma plugboards/m1.pb reflectors/m2.rf rotors/I.rot rotors/IV.rot rotors/m1.pos
